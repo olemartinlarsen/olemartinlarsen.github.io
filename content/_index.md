@@ -8,7 +8,7 @@ title: Hei, jeg er Ole Martin 👋
 
 Jeg jobber for tiden i [Netcompany](https://www.netcompany.com/no/) på SAFEST prosjektet hos [Statens Legemiddelverk](https://legemiddelverket.no/english). Formålet med prosjektet er å etablere en kilde til strukturert legemiddelinformasjon som understøtter behovene til sykehusene. Les mer om arbeidet [her](/arbeid/).
 
-## Kontakt meg
+## Hvor du finner meg
 
 - [E-post](mailto:hei@omlarsen.no)
 - [LinkedIn](https://www.linkedin.com/in/omlarsen/)
