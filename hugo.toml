@@ -17,6 +17,11 @@ pluralizeListTitles = false
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+# Configuration for permalinks in Hugo.
+[permalinks]
+  blog = "/:filename/"
+  tags = "/blogg/:slug"
+
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Hugo + Bear = :heart:"
