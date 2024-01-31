@@ -10,15 +10,14 @@ Siden august 2021 har jeg jobbet på SAFEST-prosjektet hos *Direktoratet for med
 
 Mye av bakgrunnen for dette prosjektet er behovet for å gå over til internasjonale standarder, som er avgjørende for et effektivt leverandørmarked og internasjonal samhandling. Norge er ganske tidlig ute med dette, noe som blir lagt merke til [utenfor landegrensene](#key-innovator).
 
-Grunnen til at SAFEST-prosjektet blir trukket frem av *Helsedirektoratet* er på bakgrunn av hva dataen som leveres i prosjektet kan tilby. Målarkitekturen de legger frem beskriver følgende forhold rundt en nasjonal tjeneste:
+Grunnen til at SAFEST-prosjektet blir trukket frem av *Helsedirektoratet*, er på grunn av verdien dataene som leveres i prosjektet kan tilby. Målarkitekturen som de presenterer, beskriver følgende forhold rundt en nasjonal tjeneste:
 
 1. **Felles informasjonsmodell** for legemiddelgrunndata basert på ISO IDMP og felles informasjonsmodell for deling i verdikjeden basert på ressurser i FHIR.
 2. **Standardiserte og åpne grensesnitt** for utveksling og distribusjon av legemiddelgrunndata skjer med API'er basert på FHIR.
 3. **Teknisk løsning** som legger til rette for effektiv sentral informasjonsforvaltning og utveksling av data fra ulike produsenter og til konsumenter. Løsningene fra SAFEST-prosjektet kan ligge til grunn for komponenter i en teknisk løsning.
-4. **Definerte roller og ansvar** der produsenter, konsumenter og integrator inngår i
-leveranse og forvaltningskjeden for grunndata, og en **overordnet koordinering av behov og tiltak**.
+4. **Definerte roller og ansvar** der produsenter, konsumenter og integrator inngår i leveranse og forvaltningskjeden for grunndata, og en **overordnet koordinering av behov og tiltak**.
 
-Det blir også trukket frem i rapporten at helsesektoren i Norge i all hovedsak støtter dette forslaget til målarkitetur og et ønske om å gå i denne retningen.
+Det blir også trukket frem i rapporten at helsesektoren i Norge i all hovedsak støtter dette forslaget til målarkitektur og et ønske om å gå i denne retningen.
 
 ### Key Innovator
 
@@ -28,14 +27,14 @@ SAFEST-prosjektet er med på å understøtte implementering og utbredelse av en 
 
 I all hovedsak består den tekniske løsningen av 4 hovedkomponenter.
 
-- **Dataoverføringsmodulen** betjenes hostes i Microsoft Azure.
+- **Dataoverføringsmodulen** hostes i Microsoft Azure.
 - **Kvalitetsforbedringsmodulen**, med transformasjon til FHIR-format og -struktur, betjenes av pipelines i [Sesam](https://www.sesam.io/).
 - **Kvalitetskontrollprosessene** håndteres gjennom GUI i Microsoft Dynamics 365.
 - **Distribusjonsmodulen** hostes i Microsoft Azure.
 
 ![tekniske-platformer](/tekniske-platformer.png)
 
-Det har også blitt utviklet et omfattende test-rammeverk for å validere
+Det har også blitt utviklet et omfattende test-rammeverk for å validere dataene som blir publisert i FHIR API-et, dette for å sikre at pasientsikkerheten er ivaretatt når aktører skal ta dataene i bruk.
 
 
 [^1]: [Praktisk informasjon: overgangen til nytt direktorat](https://www.dmp.no/nyheter/praktisk-informasjon-om-overgangen-til-nytt-direktorat).
