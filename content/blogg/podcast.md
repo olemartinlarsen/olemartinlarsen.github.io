@@ -3,6 +3,7 @@ title: "Avhengig av Podcast"
 date: 2023-11-20
 tags:
   - refleksjon
+draft: true
 ---
 
 Jeg er avhengig av podcast. Å bruke ordet "avhengig" kan kanskje være å ta i litt, men kanskje ikke. Dette er faktisk noe jeg har kjent på en stund, men jeg tenkte litt ekstra over det etter at jeg ironisk nok hørte det bli diskutert i den siste podcastepisoden til *Både Erlend og Steinar*[^1]. Der snakker Steinar om at han er avhengig av podcast når han skal sove, og at det er i ferd med å ødelegge ham, siden han ikke tenker lenger. Han uttrykker også bekymring for at han kanskje lider av angst, ettersom han føler behovet for å lytte til podcast ved sengetid istedenfor å la sine egne tanker vandre fritt.
