@@ -5,6 +5,9 @@ baseURL = "https://www.omlarsen.no"
 # The name of this wonderful theme ;-).
 theme = "hugo-bearblog"
 
+# Do not pluralize list titles
+pluralizeListTitles = false
+
 # Basic metadata configuration for your blog.
 title = 'omlarsen'
 copyright = "Copyright © 2024, Ole Martin Larsen."
@@ -12,9 +15,6 @@ languageCode = 'nb'
 [author]
 name = "Ole Martin Larsen"
 email = "ole@omlarsen.no"
-
-# Do not pluralize list titles
-pluralizeListTitles = false
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
