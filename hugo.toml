@@ -7,9 +7,11 @@ theme = "hugo-bearblog"
 
 # Basic metadata configuration for your blog.
 title = 'omlarsen'
-author = "Ole Martin Larsen"
 copyright = "Copyright © 2024, Ole Martin Larsen."
 languageCode = 'nb'
+[author]
+name = "Ole Martin Larsen"
+email = "ole@omlarsen.no"
 
 # Do not pluralize list titles
 pluralizeListTitles = false
