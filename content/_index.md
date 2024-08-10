@@ -10,3 +10,4 @@ title: Hei, jeg er Ole Martin 👋
 - [LinkedIn](https://www.linkedin.com/in/omlarsen/)
 - [GitHub](https://github.com/olemartinlarsen)
 - [Résumé](/assets/resume.pdf)
+- [RSS Feed](https://www.omlarsen.no/index.xml)
