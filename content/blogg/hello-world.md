@@ -2,7 +2,7 @@
 title: "Hello World!"
 date: 2023-11-02
 tags:
-  - setup
+  - nettside
 ---
 
 Dette er det første innlegget på siden min, som også vil fungere som en blogg. Jeg er ikke helt sikker på hva målet med siden er ennå, men forhåpentligvis vil det utvikle seg til noe interessant.
