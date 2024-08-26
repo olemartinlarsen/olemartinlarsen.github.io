@@ -19,6 +19,6 @@ Det er i hovedsak tre grunner til at jeg bruker RSS:
 
 1. Man kan velge akkurat hva man har lyst til å se i feeden sin. Det er ingen reklame eller andre ting som blir injisert som man ikke ønsker å se.
 2. Man er plattformuavhengig. Hvis plattformen man bruker legger ned eller av andre grunner gjør at man ikke ønsker å bruke den videre, kan man simpelthen hoppe over til en ny.
-3. Man kan samle alt på ett sted.
+3. Man kan samle alt man vil følge med på, på ett sted.
 
 Personlig bruker jeg [NewsBlur](https://newsblur.com/) for alt som har med RSS å gjøre. Her prøver jeg så langt det lar seg gjøre å samle alt jeg følger med på. Det gjelder nyheter, blogger, release logs, nyhetsbrev etc. Siden har faktisk flere betalende daglige brukere enn gratisbrukere, noe jeg vil si er ganske imponerende, i hvert fall når store deler av funksjonaliteten er tilgjengelig gratis. Siden har et ganske enkelt design, men man har også utrolig mange måter å tilpasse feeden sin på, med tastatursnarveier, lagring av "stories" og mye mer. Kan anbefale å sjekke det ut selv!
