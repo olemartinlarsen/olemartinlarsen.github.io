@@ -1,6 +1,6 @@
 ---
 title: "Lenge leve RSS"
-date: 2024-08-19T20:47:58+02:00
+date: 2024-08-26
 tags:
   - teknologi
 ---
