@@ -32,10 +32,7 @@ I all hovedsak består den tekniske løsningen av 4 hovedkomponenter.
 - **Kvalitetskontrollprosessene** håndteres gjennom GUI i Microsoft Dynamics 365.
 - **Distribusjonsmodulen** hostes i Microsoft Azure.
 
-![tekniske-platformer](/tekniske-platformer.png)
-
 Det har også blitt utviklet et omfattende test-rammeverk for å validere dataene som blir publisert i FHIR API-et, dette for å sikre at pasientsikkerheten er ivaretatt når aktører skal ta dataene i bruk.
-
 
 [^1]: [Praktisk informasjon: overgangen til nytt direktorat](https://www.dmp.no/nyheter/praktisk-informasjon-om-overgangen-til-nytt-direktorat).
 [^2]: [Praktisk informasjon om endringene fra 1. januar 2024 på e-helseområdet](https://www.ehelse.no/aktuelt/endringer-pa-e-helseomradet-fra-1.januar-2024).
