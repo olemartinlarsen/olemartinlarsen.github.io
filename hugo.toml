@@ -10,11 +10,8 @@ pluralizeListTitles = false
 
 # Basic metadata configuration for your blog.
 title = 'omlarsen'
-copyright = "Copyright © 2024, Ole Martin Larsen."
+copyright = "Copyright © 2025, Ole Martin Larsen."
 languageCode = 'nb'
-[author]
-name = "Ole Martin Larsen"
-email = "ole@omlarsen.no"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -53,3 +50,7 @@ hideMadeWithLine = true
 # for details. An example TOML config that uses [ISO
 # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
 dateFormat = "2006-01-02"
+
+  [params.author]
+    name = "Ole Martin Larsen"
+    email = "ole@omlarsen.no"
