@@ -6,8 +6,8 @@
     <description>Blogg poster fra {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}
-    <managingEditor>{{ $.Site.Params.author.name }} ({{ $.Site.Author.email }})</managingEditor>
-    <webMaster>{{ $.Site.Params.author.name }} ({{ $.Site.Author.email }})</webMaster>{{ with .Site.Copyright }}
+    <managingEditor>{{ $.Site.Params.author.name }} ({{ $.Site.Params.author.email }})</managingEditor>
+    <webMaster>{{ $.Site.Params.author.name }} ({{ $.Site.Params.author.email }})</webMaster>{{ with .Site.Copyright }}
     <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}
@@ -18,7 +18,7 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Monday, 02 January 2006" | safeHTML }} - {{ $.Site.Params.author.name }}</pubDate>
-      <author>{{ $.Site.Params.author.name }} ({{ $.Site.Author.email }})</author>
+      <author>{{ $.Site.Params.author.name }} ({{ $.Site.Params.author.email }})</author>
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
     </item>
